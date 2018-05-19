@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Message()
+comment1.params=s\ r\ mt
+comment1.target=Message(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=other
+comment2.target=Message(Message)
+comment3.params=
+comment3.target=java.lang.String\ getSender()
+comment4.params=
+comment4.target=java.lang.String\ getRecipient()
+comment5.params=
+comment5.target=java.lang.String\ getMessagetext()
+comment6.params=s
+comment6.target=void\ setSender(java.lang.String)
+comment7.params=s
+comment7.target=void\ setRecipient(java.lang.String)
+comment8.params=s
+comment8.target=void\ setMessagetext(java.lang.String)
+comment9.params=line
+comment9.target=void\ append(java.lang.String)
+numComments=11
